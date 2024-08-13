@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-image: url('Website_BGImage.jpg'); /* Ensure image.jpg is in the public folder */
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+input {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 40px;
+}
+
+h2 {
+  margin-top: 20px;
+}
