@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-image: url('Website_BGImage.jpg'); /* Ensure image.jpg is in the public folder */
+  background-image: url('Website_BGImage.jpg'); 
   background-size: cover;
   height: 100vh;
   display: flex;
