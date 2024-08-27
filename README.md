@@ -30,3 +30,11 @@ The aim of this project is to detect deepfake and violent content using advanced
   - **`package.json`**: Manages Node.js dependencies and scripts.
   - **`package-lock.json`**: Ensures consistent dependency installations.
 
+### Output Folder
+
+- **`Output/`**: Contains images showcasing the UI of the website. It contains:
+  - **`UI_image.jpg`**: A screenshot of the overall UI of the website.
+  - **`Fake_UI_image.jpg`**: A screenshot of the UI when a deepfake is detected.
+  - **`Real_UI_image.jpg`**: A screenshot of the UI when a real image is detected.
+
+
